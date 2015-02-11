@@ -1,0 +1,1 @@
+This repo is for Why should you sponsor Airpair's Writing Competition? by Ellen Dudley. And it's one of the first ever git backed AirPair posts :{}
