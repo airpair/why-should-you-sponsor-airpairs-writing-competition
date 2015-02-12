@@ -6,9 +6,9 @@ This month we are announcing a 3 month long [writing competition](https://www.ai
 
 We're giving away $5k, $3k & $2k in cash prizes to the three most shared posts, with many smaller category prizes from $150-$1500.
 
-##Why sponsor? 
+We'd like to help companies generate fresh top notch tutorials and thought pieces, to stimulate community activity and create more awareness of your technology amongst the wider AirPair community. 
 
-We'd like to help companies to generate fresh top notch tutorials and thought pieces, stimulating community activity and creating more awareness of your technology amongst the wider AirPair community. 
+##Why sponsor? 
 
 ###Reader numbers
 
@@ -50,9 +50,11 @@ We already have a few partners sponsoring $500 prizes for the best post about th
 
 ###Case Studies
 
-Firebase became one of our sponsors when they saw the impact created by a recent post on Airpair: [Build a Real Time Hybrid App with Ionic & Firebase](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase) that drove vistors to their site to try out their platform. 
+Firebase became one of our sponsors when they saw the impact created by a recent post on Airpair, [Build a Real Time Hybrid App with Ionic & Firebase](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase). 
 
-[![Build a Real Time Hybrid App with Ionic & Firebase](//imgur.com/aR62OFI.png)](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase)
+It received 5,500+ pageviews in just 2 weeks, with visitors spending an average of 6.5 minutes engaged with the content.
+
+[![Build a Real Time Hybrid App with Ionic & Firebase](//imgur.com/ykBVXNv.png)](https://twitter.com/Firebase/status/561198155828453376)
 
 ###Why sponsor this competition and not an event?  
 
@@ -86,7 +88,7 @@ In order to help us to encourage developers to write about **your platform** ins
 
 ###**Money.**
 
-**Creating awesome content costs money**. Writing an article can take anywhere from 5-40 hours, and our authors are developers who can charge up to $200/hr. We're not asking you to match their rate, but we ask that you provide a cash prize of $500 to cover some of their expenses. 
+**Creating awesome content costs money**. Writing an article can take anywhere from 5-40 hours, and our authors are developers who can charge up to $200/hr. We're not asking you to match their rate, but we ask that you provide a cash prize of $500 to cover some of their expenses. With a good chance of multiple submissions, and a comissioned tutorial costing anywhere from $2,000-$3,000, $500 is a relatively small investment. 
 
 *Other sponsorship ideas such as free credits to your services for entrants and winners, or bigger cash prizes can be discussed. Please email [team@airpair.com](team@airpair.com).*
 
