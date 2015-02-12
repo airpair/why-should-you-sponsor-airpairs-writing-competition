@@ -2,13 +2,13 @@
 
 Interested in fresh thought leading content about your company's technology or API?
 
-This week AirPair is announcing a 3 month long [writing competition](https://www.airpair.com/100k-writing-competition) to celebrate the release of our new Github API powered, collaborative publishing tools. Our new platform allows anyone to fork posts and submit pull requests to fix typos and make suggestions.
+This month we are announcing a 3 month long [writing competition](https://www.airpair.com/100k-writing-competition) to celebrate the release of our new Github API powered, collaborative publishing tools. Our new platform allows anyone to fork posts and submit pull requests to fix typos and make suggestions.
 
 We're giving away $5k, $3k & $2k in cash prizes to the three most shared posts, with many smaller category prizes from $150-$1500.
 
-We'd like to help companies generate fresh top notch tutorials and thought pieces with the goal of stimulating community activity and making the wider AirPair community more aware of your tech. We have a few partners already sponsoring $500 prizes to the best post about their company's technology.
-
 ##Why sponsor? 
+
+We'd like to help companies to generate fresh top notch tutorials and thought pieces, stimulating community activity and creating more awareness of your technology amongst the wider AirPair community. 
 
 ###Reader numbers
 
@@ -46,7 +46,7 @@ As a sponsor we will provide you with:
 *Let us know if there you would like to be exposed through other channels.*
 
 ###What other like minded companies are participating?
-Consult [our competition page](https://www.airpair.com/100k-writing-competition) to see who is participating. 
+We already have a few partners sponsoring $500 prizes for the best post about their company's technology. Consult [our competition page](https://www.airpair.com/100k-writing-competition) to see who is participating. 
 
 ###Case Studies
 
