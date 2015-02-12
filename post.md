@@ -8,9 +8,9 @@ We're giving away $5k, $3k & $2k in cash prizes to the three most shared posts, 
 
 We'd like to help companies generate fresh top notch tutorials and thought pieces, to stimulate community activity and create more awareness of your technology amongst the wider AirPair community. 
 
-##Why sponsor? 
+##Why should we sponsor? 
 
-###Reader numbers
+###AirPair Reader numbers
 
 With over **3 million pageviews in 6 months**, we are currently one of the Web's best places to find technical content.
 
@@ -41,6 +41,8 @@ As a sponsor we will provide you with:
 - a **blurb (140 characters) in our bi-weekly newsletter** to 11,000+ subscribers
 - **2 tweets per week** mentioning your support as sponsor
 - special Airpair **promotional treatment** for all posts related to your technology
+
+We would also like to invite you to post "sponsor updates" about any new features or updates you are releasing in the next 3 months. 
 
 <br>
 *Let us know if there you would like to be exposed through other channels.*
@@ -82,31 +84,29 @@ All content goes through a peer review process, and an internal editing process 
 
 *Let us know if you would like to be involved in this process to proofread any content about your technology.*
 
-##How you can support us as a sponsor
+##How can we boost the impact of our sponsorship?
 
-In order to help us to encourage developers to write about **your platform** instead of another technology, we need your help in three key ways - Money, Impact and Peers. 
+There are 3 ways to take an active role in helping to create the new champions and heroes of your technology - through Prizes, Sharing and Peer Review. 
 
-###**Money.**
+###Prizes
 
-**Creating awesome content costs money**. Writing an article can take anywhere from 5-40 hours, and our authors are developers who can charge up to $200/hr. We're not asking you to match their rate, but we ask that you provide a cash prize of $500 to cover some of their expenses. With a good chance of multiple submissions, and a comissioned tutorial costing anywhere from $2,000-$3,000, $500 is a relatively small investment. 
+**Creating awesome content costs money**. Writing an article can take anywhere from 5-40 hours, and our authors are developers who can charge up to $200/hr. Your cash prize of $500 will help to cover some of their expenses, however you can also offer other sponsorship ideas such as free credits to your services for entrants and winners, or bigger cash prizes. 
 
-*Other sponsorship ideas such as free credits to your services for entrants and winners, or bigger cash prizes can be discussed. Please email [team@airpair.com](team@airpair.com).*
+*With a good chance of multiple submissions, and a commissioned tutorial costing anywhere from $2,000-$3,000, $500 is a relatively small investment. *
 
-###**Impact.**
+###Sharing
 
 *Money isn't everything*. For authors, sharing their knowledge, experience and opinions is a way to support the community, interact with the community, and give back. This for them `= impact`. Plus they are likely to land some properly paid development work as a result. 
 
-We need your help to increase the impact of any posts related to your technology, by sharing them with your community.  
+If you take the time to support authors by sharing their content with your community, you can encourage even more developers to write about their experiences using your technology.
 
-###**Peers.**
+###Peer Review
 
-The better the content, the more impact it will create, and the longer it will live on the web, so we need to ensure we are publishing **high quality, relevant content**. This is why we've designed our [Github powered collaborative authoring tools](link to JK's article) - to make it as easy and fun as possible for developers to review content, test code, and submit edits. 
+The better the content, the more impact it will create, and the longer it will live on the web, so the goal is to publish **high quality, relevant content**. This is why we designed our [Github powered collaborative authoring tools](link to JK's article) - to make it as easy and fun as possible for developers to review content, test code, and submit edits. 
 
-We need your help to encourage **developers in your community** to evaluate and critique relevant content about your technology *before* it's published. 
+If you encourage **developers in your community** to evaluate and critique the content submitted about your technology *before* it's published, you can increase the quality and impact of your investment. 
 
 
->With these **three assurances** in place, of a cash prize, sharing relevant content amongst your community and asking other developers to participate in peer review, it will be easy to encourage developers to write about their experiences using your technology. 
-
-##I’m interested, what's next?
+##We're interested, what's next?
 
 Please email [team@airpair.com](team@airpair.com) to set up a call. We will clarify any questions you have and send a sponsorship package with all the details. 
