@@ -1,18 +1,18 @@
 ##Introduction
 
-AirPair's mission is to find new ways **to connect developers** for the purpose of knowledge share. 
+Interested in fresh thought leading content about your company's technology or API?
 
-We are best known for connecting developers over video chat, but we launched **v1 of our content program in 2014** to connect developers through content, paying awesome developers to write for us. 
+This week AirPair is announcing a 3 month long [writing competition](https://www.airpair.com/100k-writing-competition) to celebrate the release of our new Github API powered, collaborative publishing tools. Our new platform allows anyone to fork posts and submit pull requests to fix typos and make suggestions.
 
-With over **3 million pageviews in 6 months**, we are currently one of the Web's best places to find technical content in 2014.
+We're giving away $5k, $3k & $2k in cash prizes to the three most shared posts, with many smaller category prizes from $150-$1500.
 
-To celebrate the [launch of v2 of our collaborative authoring tools](link to jk's post), we're running a [100K writing competition](https://www.airpair.com/100k-writing-competition) to source the most impactful technical content on the web.
-
-With your support, we'd love to encourage **the best of the best developers** to **create awesome content** about **your technology or platform** on Airpair.
+We'd like to help companies generate fresh top notch tutorials and thought pieces with the goal of stimulating community activity and making the wider AirPair community more aware of your tech. We have a few partners already sponsoring $500 prizes to the best post about their company's technology.
 
 ##Why sponsor? 
 
 ###Reader numbers
+
+With over **3 million pageviews in 6 months**, we are currently one of the Web's best places to find technical content.
 
 A good post published on Airpair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"** (a number that keeps growing as lifetime right now means about 10 months). 
 
