@@ -1,4 +1,4 @@
-##1 Introduction
+## 1 Introduction
 
 Interested in fresh thought leading content about your company's technology or API?
 
@@ -102,7 +102,24 @@ The better the content, the more impact it will create, and the longer it will l
 
 If you encourage **developers in your community** to evaluate and critique the content submitted about your technology *before* it's published, you can increase the quality and impact of your investment. 
 
+## Frequently asked questions
 
-##4 We're interested, what's next?
+### ROI 
+
+Here's a subsection on ROI
+
+#### Here's a question to test styling
+
+And here's a paragraph answer
+
+### How much time is this going to take
+
+Here's a subsection on opportunity
+
+#### What is the minimum requirements for participating
+
+The minimum is ....
+
+## 5 We're interested, what's next?
 
 Please email [team@airpair.com](team@airpair.com) to set up a call. We will clarify any questions you have and send a sponsorship package with all the details. Excited to have you on board!
