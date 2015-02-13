@@ -2,22 +2,26 @@
 
 #### Making great content yourself is hard ####
 
-Content production is time consuming and expensive. Producing your own content scales linearly. You can only produce as fast as how many writers you have on staff. Furthermore, staff will likely produce a narrow spectrum of ideas and formats mirroring how you think about your own technology. Rather than being paid to think up uses, Developers using your technology to solve real world problems will have inspiration to write more unique angels.
+Content production is time consuming and expensive. Producing your own content scales linearly with the number of writers you have on staff. Furthermore, Developers using your technology to solve real world problems will have inspiration to write more unique angels than being paid to think up use cases.
 
-#### Community produced content can scale ####
+#### How community produced content can scale ####
 
-Successfully motivating developers to write about your technology, while still fresh and exciting for them may be impactful in the following ways.
+Capturing excited community members can impactful in the following ways.
 
-- They are evangelising your technology with their own individual grass roots voice
-- Scale by number of engaged power users in your community size, instead of internal team size
-- Alternative forms of content become possible
-  - Authentic 'in production' success stories
-  - Greater coverage of hybrid pieces combining your technology combined with others
+- Encourage authentic grass roots evangelism to augment your official promotional activities.
+- Scale by number of engaged community power users instead of internal team size.
+- Unlock alternative forms of content like:
+  - Authentic *in production* success stories
+  - Permutations of hybrid pieces combining your technology with another that you could otherwise not cover on your own e.g:
+    - YourAPI on Rails
+    - YourAPI on NodeJS
+    - YourAPI + AnotherAPI
+    - etc. etc.
 - And more ... 
 
-** Forkable content is more maintainable **
+#### Forkable content is more maintainable ####
 
-With the annoucement of our $100,000 Writing Competition comes the release of our new Social Authoring tools. Every post on AirPair will be forkable, meaning the community is empowered to help edit, improve and maintain posts as you evolve your technology and releas new versions.
+With our $100,000 Writing Competition comes the [ annoucement of our new Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement). Every post on AirPair will be forkable, meaning *** the community is empowered to help edit, improve and maintain posts as you release new versions***.
 
 ## 2 Access AirPair's Growing Reader Base
 
