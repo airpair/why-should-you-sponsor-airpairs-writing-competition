@@ -85,11 +85,12 @@ All content goes through a peer review process prior to being published. You'll 
 
 *Let us know if you would like to be involved in this process to proofread any content about your technology.*
 
+<!--
 ##3 How can we boost the impact of our sponsorship?
 
 There are 3 ways to take an active role in helping to create the new champions and heroes of your technology - through Prizes, Sharing and Peer Review. 
 
-<!-- ###3.1 Prizes
+###3.1 Prizes
 
 **Creating awesome content costs money**. Writing an article can take anywhere from 5-40 hours, and our authors are developers who can charge up to $200/hr. Your cash prize of $500 will help to cover some of their expenses, however you can also offer other sponsorship ideas such as free credits to your services for entrants and winners, or bigger cash prizes. 
 
