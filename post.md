@@ -1,14 +1,25 @@
-## 1 Introduction
+## 1 ROI on Internal vs Community Content
 
-Interested in fresh thought leading content about your company's technology or API?
+#### Making great content yourself is hard ####
 
-This month we are announcing a 3 month long [writing competition](https://www.airpair.com/100k-writing-competition) to celebrate the release of our new Github API powered, collaborative publishing tools. Our new platform allows anyone to fork posts and submit pull requests to fix typos and make suggestions.
+Content production is time consuming and expensive. Producing your own content scales linearly. You can only produce as fast as how many writers you have on staff. Furthermore, staff will likely produce a narrow spectrum of ideas and formats mirroring how you think about your own technology. Rather than being paid to think up uses, Developers using your technology to solve real world problems will have inspiration to write more unique angels.
 
-We're giving away $5k, $3k & $2k in cash prizes to the three most shared posts, with many smaller category prizes from $150-$1500.
+#### Community produced content can scale ####
 
-We'd like to help companies generate fresh top notch tutorials and thought pieces, to stimulate community activity and create more awareness of your technology amongst the wider AirPair community. 
+Successfully motivating developers to write about your technology, while still fresh and exciting for them may be impactful in the following ways.
 
-##2 Why should we sponsor? 
+- They are evangelising your technology with their own individual grass roots voice
+- Scale by number of engaged power users in your community size, instead of internal team size
+- Alternative forms of content become possible
+  - Authentic 'in production' success stories
+  - Greater coverage of hybrid pieces combining your technology combined with others
+- And more ... 
+
+** Forkable content is more maintainable **
+
+With the annoucement of our $100,000 Writing Competition comes the release of our new Social Authoring tools. Every post on AirPair will be forkable, meaning the community is empowered to help edit, improve and maintain posts as you evolve your technology and releas new versions.
+
+## 2 Access AirPair's Growing Reader Base
 
 ###2.1 AirPair Reader numbers
 
@@ -27,6 +38,14 @@ It's success largely depends on how many readers share it (some posts accumulate
 The average time spent reading a post is 6-8 minutes and about 80% of our readers are unique. 
 
 33% of our readers come from the US, 8% from India, 5% from the UK, and 3% from Canada. 
+
+## 3 Ride our $100,000 investment
+
+This month we are announcing a 3 month long [writing competition](https://www.airpair.com/100k-writing-competition) to celebrate the release of our new Github API powered, collaborative publishing tools. Our new platform allows anyone to fork posts and submit pull requests to fix typos and make suggestions.
+
+We're giving away $5k, $3k & $2k in cash prizes to the three most shared posts, with many smaller category prizes from $150-$1500.
+
+We'd like to help companies generate fresh top notch tutorials and thought pieces, to stimulate community activity and create more awareness of your technology amongst the wider AirPair community. 
 
 ###2.2 Exposure
 
