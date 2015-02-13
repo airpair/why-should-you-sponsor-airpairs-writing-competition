@@ -20,7 +20,7 @@ A good post published on Airpair can expect **40,000 pageviews** in it's first w
 
 It's success largely depends on how many readers share it (some posts accumulate more than **11,000+ shares on social media**) which depends on quality, subject matter, author reputation and a bit of luck (e.g trending on HackerNews), but an **average post still gets about 15,000 readers**.
 
-*Check out the stats on the [best posts published in 2014](link to ellen's blog). *
+*Check out the stats on the [best posts published in 2014](https://www.airpair.com/top-posts-on-airpair-in-2014). *
 
 ####2.1.1 Engagement & Demographics 
 
@@ -72,7 +72,7 @@ Posts on Airpair generally fit into one of 3 categories:
 
 They cover all technologies and platforms, and can be Beginner, Intermediate, or Advanced. 
 
-You can check out the [best posts published in 2014](link to ellen's blog) to get an idea of what our audience is interested in.
+You can check out the [best posts published in 2014](https://www.airpair.com/top-posts-on-airpair-in-2014) to get an idea of what our audience is interested in.
 
 ###2.6 Editing
 
@@ -98,7 +98,7 @@ If you take the time to support authors by sharing their content with your commu
 
 ###3.3 Peer Review
 
-The better the content, the more impact it will create, and the longer it will live on the web, so the goal is to publish **high quality, relevant content**. This is why we designed our [Github powered collaborative authoring tools](link to JK's article) - to make it as easy and fun as possible for developers to review content, test code, and submit edits. 
+The better the content, the more impact it will create, and the longer it will live on the web, so the goal is to publish **high quality, relevant content**. This is why we designed our Github powered collaborative authoring tools - to make it as easy and fun as possible for developers to review content, test code, and submit edits. 
 
 If you encourage **developers in your community** to evaluate and critique the content submitted about your technology *before* it's published, you can increase the quality and impact of your investment. 
 
