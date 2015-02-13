@@ -58,10 +58,10 @@ You also have the opportunity to post "sponsor updates" about any new features o
 ### 3.2 Other like minded companies participating
 
 <img src="/static/img/pages/postscomp/logo-firebase.png" style="width:200px" />
-<img src="/static/img/pages/postscomp/logo-pubnub.png style="width:200px" />
-<img src="/static/img/pages/postscomp/logo-rethinkdb.png style="width:200px" />
-<img src="/static/img/pages/postscomp/logo-coreos.png style="width:200px" />
-<img src="/static/img/pages/postscomp/logo-keen-io.png style="width:200px" />
+<img src="/static/img/pages/postscomp/logo-pubnub.png" style="width:200px" />
+<img src="/static/img/pages/postscomp/logo-rethinkdb.png" style="width:200px" />
+<img src="/static/img/pages/postscomp/logo-coreos.png" style="width:200px" />
+<img src="/static/img/pages/postscomp/logo-keen-io.png" style="width:200px" />
 
 ### 3.3 Case Study
 
