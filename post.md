@@ -1,10 +1,10 @@
 ## 1 ROI on Internal vs Community Content
 
-#### Making great content yourself is hard ####
+####1.1 Making great content yourself is hard ####
 
 Content production is time consuming and expensive. Producing your own content scales linearly with the number of writers you have on staff. Furthermore, Developers using your technology to solve real world problems will be inspired to write more unique content than staff paid to think up use cases.
 
-#### How community produced content scales ####
+####1.2 How community produced content scales ####
 
 Capturing excited community members is impactful in the following ways:
 
@@ -18,7 +18,7 @@ Capturing excited community members is impactful in the following ways:
     - YourAPI + AnotherAPI
     - etc. etc.
 
-#### Reduce costs with Crowdsourced  maintainance ####
+####1.3 Reduce costs with Crowdsourced  maintainance ####
 
 Leverage AirPair's **[New Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** to empowere the community to help you edit, improve and maintain posts as you release new versions.
 
@@ -42,7 +42,7 @@ We're giving away $5k, $3k & $2k in cash prizes to the three most shared posts, 
 
 We'd like to help companies generate fresh top notch tutorials and thought pieces, to stimulate community activity and create more awareness of your technology amongst the wider AirPair community. 
 
-### 3.1 Exposure
+#### 3.1 Exposure
 
 As a prize sponsor we will provide you with: 
 - a **full post** on our site explaining what you would like developers to write about
@@ -55,7 +55,7 @@ As a prize sponsor we will provide you with:
 You also have the opportunity to post "sponsor updates" about any new features or updates you are releasing in the next 3 months. 
 
 
-### 3.2 Other like minded companies participating
+#### 3.2 Other like minded companies participating
 
 <img src="/static/img/pages/postscomp/logo-firebase.png" style="width:200px" />
 <img src="/static/img/pages/postscomp/logo-pubnub.png" style="width:200px" />
@@ -63,7 +63,7 @@ You also have the opportunity to post "sponsor updates" about any new features o
 <img src="/static/img/pages/postscomp/logo-coreos.png" style="width:200px" />
 <img src="/static/img/pages/postscomp/logo-keen-io.png" style="width:200px" />
 
-### 3.3 Case Study
+#### 3.3 Case Study
 
 Firebase became one of our sponsors when they saw the impact created by a recent post on AirPair, [Build a Real Time Hybrid App with Ionic & Firebase](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase). 
 
@@ -71,7 +71,7 @@ It received 5,500+ pageviews in just 2 weeks, with visitors spending an average 
 
 [![Build a Real Time Hybrid App with Ionic & Firebase](//imgur.com/ykBVXNv.png)](https://twitter.com/Firebase/status/561198155828453376)
 
-### 3.4 Why sponsor content instead of an event?  
+#### 3.4 Why sponsor content instead of an event?  
 
 By sponsoring this competition, you are making it easier to convince key developers to take the time to write about their experiences using **your technology**, encouraging thousands of other developers to give it a spin. 
 
@@ -79,7 +79,7 @@ And unlike an event, the content will exist on the web for years to come, update
 
 *At the end of the competition, we will send you a summary of the articles posted about your technology, along with relevant statistics like pageviews and number of shares across social media.*
 
-### 3.5 Meeting your champions while Editing
+#### 3.5 Meeting your champions while Editing
 
 All content goes through a peer review process prior to being published. You'll be exposed to the ideas your community wants to share well before they become public, meaning your team can help improve and shape every piece.
 
@@ -115,13 +115,13 @@ The minimum is .... -->
 
 ## 4 What's involved?
 
-### 4.1 Minimum requirements
+#### 4.1 Minimum requirements
 
 To partner with AirPair and be listed as a sponsor of our competition, you must provide at least one $500 cash prize to be paid to the author whose post about your technology has the `highest community ratings` multiplied by `number of social shares`.
 
 We also expect you to introduce us to 5-10 people in your community who are candiates to write great posts about your technology.
 
-### 4.2 Getting more mileage
+#### 4.2 Getting more mileage
 
 We have a schedule and a set of activies that will help us to stimulate participation from your community, from basics like tweeting, to more elaborate strategies. If you're interested, we'd love to chat and share more.
 
