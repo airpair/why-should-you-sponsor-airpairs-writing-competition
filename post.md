@@ -79,7 +79,7 @@ And unlike an event, the content will exist on the web for years to come, update
 
 *At the end of the competition, we will send you a summary of the articles posted about your technology, along with relevant statistics like pageviews and number of shares across social media.*
 
-### 3.4 Meeting your champions while Editing
+### 3.5 Meeting your champions while Editing
 
 All content goes through a peer review process prior to being published. You'll be exposed to the ideas your community wants to share well before they become public, meaning your team can help improve and shape every piece.
 
