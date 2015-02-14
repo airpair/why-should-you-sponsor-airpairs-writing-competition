@@ -26,7 +26,7 @@ Leverage AirPair's **[New Social Authoring tools](//airpair.com/preview/draft/jk
 
 With over **3 million pageviews in the last 6 months**, we are currently one of the Web's best places to find technical content.
 
-A good post published on Airpair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"**. The average post published in January had 15,000 views in that month alone.
+A good post published on AirPair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"**. The average post published in January had 15,000 views in that month alone.
 
 ![Alexa Airpair](//imgur.com/lCnq538.png)
 
@@ -113,7 +113,7 @@ If you encourage **developers in your community** to evaluate and critique the c
 
 The minimum is .... -->
 
-## 4 Whats involved?
+## 4 What's involved?
 
 ### 4.1 Minimum requirements
 
@@ -121,7 +121,7 @@ To partner with AirPair and be listed as a sponsor of our competition, you must 
 
 We also expect you to introduce us to 5-10 people in your community who are candiates to write great posts about your technology.
 
-### 4.2 Getting more milage
+### 4.2 Getting more mileage
 
 We have a schedule and a set of activies that will help us to stimulate participation from your community, from basics like tweeting, to more elaborate strategies. If you're interested, we'd love to chat and share more.
 
