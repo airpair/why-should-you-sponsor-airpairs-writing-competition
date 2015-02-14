@@ -2,17 +2,17 @@
 
 #### Making great content yourself is hard ####
 
-Content production is time consuming and expensive. Producing your own content scales linearly with the number of writers you have on staff. Furthermore, Developers using your technology to solve real world problems will have inspiration to write more unique angels than staff paid to think up use cases.
+Content production is time consuming and expensive. Producing your own content scales linearly with the number of writers you have on staff. Furthermore, Developers using your technology to solve real world problems will be inspired to write more unique content than staff paid to think up use cases.
 
 #### How community produced content scales ####
 
 Capturing excited community members is impactful in the following ways:
 
 - It stimulates a network effect of authentic grass roots evangelism.
-- Spread knowledge by speed of engaged power users instead vs internal team size.
-- Unlock alternative forms of content like:
+- It spreads knowledge by speed of engaged power users instead of by internal team size.
+- It unlocks alternatives forms of content like:
   - Authentic *in production* customer success stories.
-  - Cover more permutations of hybrid pieces combining your technology others like:
+  - More permutations of hybrid pieces combining your technology with others like:
     - YourAPI on Rails
     - YourAPI on NodeJS
     - YourAPI + AnotherAPI
@@ -20,7 +20,7 @@ Capturing excited community members is impactful in the following ways:
 
 #### Reduce costs with Crowdsourced  maintainance ####
 
-Leverage AirPairs **[New Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** to empowered the community to help you edit, improve and maintain posts as you release new versions.
+Leverage AirPair's **[New Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** to empowere the community to help you edit, improve and maintain posts as you release new versions.
 
 ## 2 Access AirPair's Growing Reader Base
 
@@ -65,7 +65,7 @@ You also have the opportunity to post "sponsor updates" about any new features o
 
 ### 3.3 Case Study
 
-Firebase became one of our sponsors when they saw the impact created by a recent post on Airpair, [Build a Real Time Hybrid App with Ionic & Firebase](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase). 
+Firebase became one of our sponsors when they saw the impact created by a recent post on AirPair, [Build a Real Time Hybrid App with Ionic & Firebase](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase). 
 
 It received 5,500+ pageviews in just 2 weeks, with visitors spending an average of 6.5 minutes engaged with the content.
 
@@ -113,17 +113,17 @@ If you encourage **developers in your community** to evaluate and critique the c
 
 The minimum is .... -->
 
-## 4 Whats invovled?
+## 4 Whats involved?
 
 ### 4.1 Minimum requirements
 
-To partner with AirPair and be listed as a sponor of our competition, you must provide at least one $500 cash prize to be paid to the author who's post about your technology has the highest community ratings times number of social shares.
+To partner with AirPair and be listed as a sponsor of our competition, you must provide at least one $500 cash prize to be paid to the author whose post about your technology has the `highest community ratings` multiplied by `number of social shares`.
 
-We also expect you to introduce us to 5-10 people in your community that are candiates to write great posts about your tech.
+We also expect you to introduce us to 5-10 people in your community who are candiates to write great posts about your technology.
 
 ### 4.2 Getting more milage
 
-We have a schedule and set of activies that will help us stimulate participation from your community. From basics like tweeting to more elaborate strategies, if you're intersted we'd love to chat and share more.
+We have a schedule and a set of activies that will help us to stimulate participation from your community, from basics like tweeting, to more elaborate strategies. If you're interested, we'd love to chat and share more.
 
 ## 5 We're interested, what's next?
 
