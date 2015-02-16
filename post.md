@@ -1,42 +1,34 @@
 ## 1 ROI on Internal vs Community Content
 
-####1.1 Making great content yourself is hard ####
+Internal content production is time consuming, expensive and scales linearly with the number of writers on staff. 
 
-Content production is time consuming and expensive. Producing your own content scales linearly with the number of writers you have on staff. Furthermore, Developers using your technology to solve real world problems will be inspired to write more unique content than staff paid to think up use cases.
+Capturing excited community members will benefit in following ways:
 
-####1.2 How community produced content scales ####
+- Scale content production by # of engaged power users instead of internal team size.
+- Access more forms of content:
+  - Beginner, Intermediate and Advanced Usage Examples
+  - Tips, tricks & mistakes for the trenches
+  - Authentic *in production* success stories.
+  - Higher coversage across permutations of using your tech on different stacks like (e.g. YourAPI on Rails, YourAPI on NodeJJ, YourAPI + AnotherAPI etc.)
 
-Capturing excited community members is impactful in the following ways:
-
-- It stimulates a network effect of authentic grass roots evangelism.
-- It spreads knowledge by speed of engaged power users instead of by internal team size.
-- It unlocks alternatives forms of content like:
-  - Authentic *in production* customer success stories.
-  - More permutations of hybrid pieces combining your technology with others like:
-    - YourAPI on Rails
-    - YourAPI on NodeJS
-    - YourAPI + AnotherAPI
-    - etc. etc.
-
-####1.3 Reduce costs with Crowdsourced  maintainance ####
-
-Leverage AirPair's **[New Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** to empowere the community to help you edit, improve and maintain posts as you release new versions.
+Not only would successfully engaging your community stimulate a network effect of authentic grass roots Evangelism, but AirPair's **[New Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** will enable the community to help you edit, improve and maintain posts on your tech, as you release new versions.
 
 ## 2 Access AirPair's Growing Reader Base
 
-With over **3 million pageviews in the last 6 months**, we are currently one of the Web's best places to find technical content.
+With over **3 million pageviews in the last 6 months**, AirPair has become one of the Web's best places to find technical content.
 
-A good post published on AirPair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"**. The average post published in January had 15,000 views in that month alone.
+A great post published on AirPair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"**. The average post in January had 15,000 views in that month alone. The average time spent reading a post is 6-8 minutes.
 
 ![Alexa Airpair](//imgur.com/lCnq538.png)
 
-*Check out the stats on the [best posts published in 2014](//airpair.com/top-posts-on-airpair-in-2014). *
+<!--*Check out the stats on the [best posts published in 2014](//airpair.com/top-posts-on-airpair-in-2014). *-->
 
-Average time spent reading a post is 6-8 minutes. 33% of our readers come from the US, 8% from India, 5% from the UK, and 3% from Canada. 
+
+<!--33% of our readers come from the US, 8% from India, 5% from the UK, and 3% from Canada. -->
 
 ## 3 Ride our $100,000 investment
 
-This month we are announcing a 3 month long [writing competition](//airpair.com/100k-writing-competition) to celebrate the release of our new Github API powered, collaborative publishing tools. Our new platform allows anyone to fork posts and submit pull requests to fix typos and make suggestions.
+We are hosting a 3 month long [writing competition](//airpair.com/100k-writing-competition) to celebrate the release of our new Github API powered, collaborative author tools. From March onwards, all posts on AirPair can be fork and improved by the community.
 
 We're giving away $5k, $3k & $2k in cash prizes to the three most shared posts, with many smaller category prizes from $150-$1500.
 
