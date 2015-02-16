@@ -5,20 +5,20 @@ Internal content production is time consuming, expensive and scales linearly wit
 Capturing excited community members will benefit in following ways:
 
 - Scale content production by # of engaged power users instead of internal team size.
-- Encourage beginner, intermediate and advanced knowledge share inspired by real-world usage rather than the kitchen sink.
-- Access more forms of content like:
+- Encourage beginner, intermediate and advanced knowledge share inspired by real-world usage rather than *The Kitchen Sink*.
+- Access additional forms of content like:
   - Tips, tricks & mistakes from the trenches
-  - Authentic *in production* success stories
-  - More permutations using your tech with different stacks (e.g. YourAPI on Rails, YourAPI + Another-API etc.)
-  - Community content breeds a networking effect of authentic grass roots Evangelism. 
+  - Authentic *in production* customer success stories
+  - More permutations using your tech with different stacks and other APIs
+  - Breed a networking effect of authentic grass roots evangelism. 
 
-Content published on AirPair will also be easier to maintain as AirPair's **[Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** enable the community to edit, improve and maintain posts as you release new framework versions.
+Content published on AirPair will also assist you with maintenance costs. AirPair's **[Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** enable the community to edit, improve and maintain posts as you release new framework versions.
 
 ## 2 Access AirPair's Growing Reader Base
 
 With over **3 million pageviews in the last 6 months**, AirPair has become one of the Web's best places to find technical content.
 
-A great post published on AirPair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"**. The average post in January had 15,000 by the enf of the month. The average time spent reading a post is 6-8 minutes.
+A great post published on AirPair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"**. The average post in January had 15,000 views by the end of. The average time spent reading a post is 6-8 minutes.
 
 ![Alexa Airpair](//imgur.com/lCnq538.png)
 
@@ -27,11 +27,11 @@ A great post published on AirPair can expect **40,000 pageviews** in it's first 
 
 <!--33% of our readers come from the US, 8% from India, 5% from the UK, and 3% from Canada. -->
 
-## 3 Special Sponsor Promotional Benefits
+## 3 Sponsor Benefits
 
-We'd like to help companies leverage their loyal followers to heighten mindshare of your technology amongst the wider AirPair community.
+We'd like to help companies leverage their power users to heighten mindshare of your tech.
 
-With [$100k in cash prizes set aside for our writing competition](//airpair.com/100k-writing-competition) we are driving lots of eyeballs to AirPair over the next 3 months.
+With [$100k in cash prizes set aside for our writing competition](//airpair.com/100k-writing-competition), there will be lots of eyeballs get exposure to.
 
 As a sponsor we will provide you with: 
 
@@ -41,18 +41,17 @@ As a sponsor we will provide you with:
 - A **blurb (140 characters) in our bi-weekly newsletter** to 20,000+ subscribers
 - **2 tweets per week** mentioning your support as sponsor
 - Special AirPair **promotional treatment** for all posts related to your technology
-- Help engaging and motivating your community to write great content.
 
 You also have the opportunity to post your own "sponsor updates" about any new features or updates you are releasing in the next 3 months. 
 
 
 ### 3.1 Other like minded companies participating
 
-<img src="/static/img/pages/postscomp/logo-firebase.png" style="width:200px" />
-<img src="/static/img/pages/postscomp/logo-pubnub.png" style="width:200px" />
-<img src="/static/img/pages/postscomp/logo-rethinkdb.png" style="width:200px" />
-<img src="/static/img/pages/postscomp/logo-coreos.png" style="width:200px" />
-<img src="/static/img/pages/postscomp/logo-keen-io.png" style="width:200px" />
+<img src="/static/img/pages/postscomp/logo-firebase.png" style="width:200px;margin:3px" />
+<img src="/static/img/pages/postscomp/logo-pubnub.png" style="width:200px;margin:3px" />
+<img src="/static/img/pages/postscomp/logo-rethinkdb.png" style="width:200px;margin:3px" />
+<img src="/static/img/pages/postscomp/logo-coreos.png" style="width:200px;margin:3px" />
+<img src="/static/img/pages/postscomp/logo-keen-io.png" style="width:200px;margin:3px" />
 
 ### 3.2 Case Study
 
@@ -60,15 +59,10 @@ You also have the opportunity to post your own "sponsor updates" about any new f
 
 [![Build a Real Time Hybrid App with Ionic & Firebase](//imgur.com/ykBVXNv.png)](https://twitter.com/Firebase/status/561198155828453376)
 
-## 4 Why sponsor content instead of an event?  
+ 
+<!-- And unlike an event, the content will exist on the web for years to come, updated as is required, guaranteeing **long term ROI**. -->
 
-And unlike an event, the content will exist on the web for years to come, updated as is required, guaranteeing **long term ROI**.
-
-At the end of the competition, we will send you a summary of the articles posted about your technology, along with relevant statistics like pageviews and number of shares across social media.
-
-All content goes through a peer review process prior to being published. You'll be exposed to the ideas your community wants to share before they become public. Your team can optional be invovled in the review process and thus help improve and shape every piece.
-
-*Let us know if you would like to be involved in this process to proofread any content about your technology.*
+<!--At the end of the competition, we will send you a summary of the articles posted about your technology, along with relevant statistics like pageviews and number of shares across social media.-->
 
 <!--
 ##3 How can we boost the impact of our sponsorship?
@@ -98,16 +92,20 @@ If you encourage **developers in your community** to evaluate and critique the c
 
 The minimum is .... -->
 
-## 5 What's involved?
+## 4 What's involved?
 
-#### 4.1 Minimum requirements
+### 4.1 Minimum requirements
 
 To be listed as a sponsor, you must provide at least one $500 cash prize for the author whose post about your technology has the `highest community ratings` multiplied by `number of social shares`.
 
-#### 4.2 Collaborating for more mileage
+### 4.2 Collaborating for more mileage
 
 We have a schedule and a set of activies that will stimulate participation from your community. Things from tweeting, to more warm introductions to people you already know. If you're interested, we'd love to chat and share more.
 
-## 6 We're interested, what's next?
+### 4.3 Meeting your champions
+
+All content goes through a peer review process prior to being published. Your team can optional be invovled in the review process, meet those building greats things with your tech and help improve and shape every piece before it's published.
+
+## 5 We're interested, what's next?
 
 Please email [team@airpair.com](team@airpair.com) to set up a call. We will clarify any questions you have and send a sponsorship package with all the details. Excited to have you on board!
