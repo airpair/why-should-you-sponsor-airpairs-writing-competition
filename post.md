@@ -5,13 +5,13 @@ Internal content production is time consuming, expensive and scales linearly wit
 Capturing excited community members will benefit in following ways:
 
 - Scale content production by # of engaged power users instead of internal team size.
+- Encourage beginner, intermediate and advanced knowledge share inspired by real-world production usage rather than the kitchen sink.
 - Access more forms of content:
-  - Beginner, Intermediate and Advanced Usage Examples
-  - Tips, tricks & mistakes for the trenches
-  - Authentic *in production* success stories.
-  - Higher coversage across permutations of using your tech on different stacks like (e.g. YourAPI on Rails, YourAPI on NodeJJ, YourAPI + AnotherAPI etc.)
+  - Tips, tricks & mistakes from the trenches
+  - Authentic *in production* success stories
+  - Higher coverage of permutations using your tech with different stacks (e.g. YourAPI on Rails, YourAPI + Another-API etc.)
 
-Not only would successfully engaging your community stimulate a network effect of authentic grass roots Evangelism, but AirPair's **[New Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** will enable the community to help you edit, improve and maintain posts on your tech, as you release new versions.
+Community content production will stimulate a network effect of authentic grass roots Evangelism. The content produced will also be easier to maintain and stay relevant longer as AirPair's **[Social Authoring tools](//airpair.com/preview/draft/jk-git-authoring-annoucement)** enable the community to edit, improve and maintain posts as you release new framework versions.
 
 ## 2 Access AirPair's Growing Reader Base
 
