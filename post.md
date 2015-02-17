@@ -31,7 +31,7 @@ A great post published on AirPair can expect **40,000 pageviews** in it's first 
 
 We'd like to help companies leverage their power users to heighten mindshare of your tech.
 
-With [$100k in cash prizes set aside for our writing competition](//airpair.com/100k-writing-competition), there will be lots of eyeballs get exposure to.
+With [$100k in cash prizes set aside for our writing competition](//airpair.com/100k-writing-competition), there will be lots of eyeballs to get exposed to.
 
 As a sponsor we will provide you with: 
 
