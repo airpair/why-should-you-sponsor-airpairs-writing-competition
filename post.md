@@ -100,7 +100,7 @@ To be listed as a sponsor, you must provide at least one $500 cash prize for the
 
 ### Collaborating for more mileage
 
-We have a schedule and a set of activies that will stimulate participation from your community. Things from tweeting, to more warm introductions to people you already know. If you're interested, we'd love to chat and share more.
+We have a schedule and a set of activies that will stimulate participation from your community. Things from tweeting, to warm introductions to people you believe will be great authors. If you're interested, we'd love to share more over a call.
 
 ### Meeting your champions
 
