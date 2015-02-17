@@ -18,7 +18,7 @@ Content published on AirPair will also assist you with maintenance costs. AirPai
 
 With over **3 million pageviews in the last 6 months**, AirPair has become one of the Web's best places to find technical content.
 
-A great post published on AirPair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"**. The average post in January had 15,000 views by the end of. The average time spent reading a post is 6-8 minutes.
+A great post published on AirPair can expect **40,000 pageviews** in it's first week, or **200,000+ over it's "lifetime"**. The average time spent reading a post is 6-8 minutes.
 
 ![Alexa Airpair](//imgur.com/lCnq538.png)
 
