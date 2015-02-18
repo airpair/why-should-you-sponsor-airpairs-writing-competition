@@ -57,7 +57,7 @@ You also have the opportunity to post your own "sponsor updates" about any new f
 
 [![Build with Firebase & Ionic ](https://imgur.com/aR62OFI.png) 
 
-Building a Real Time Hybrid App with Ionic & Firebase](//airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase) received 5,500+ pageviews in it's first week, with visitors spending an average of 6.5 minutes engaged with the content. The post was exceptionally popular and shared across social media.
+[Building a Real Time Hybrid App with Ionic & Firebase](//airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase) received 5,500+ pageviews in it's first week, with visitors spending an average of 6.5 minutes engaged with the content. The post was exceptionally popular and shared across social media.
 
 [![Build a Real Time Hybrid App with Ionic & Firebase](//imgur.com/ykBVXNv.png)](https://twitter.com/Firebase/status/561198155828453376)
 
