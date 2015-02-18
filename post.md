@@ -2,7 +2,7 @@
 
 Internal content production is time consuming, expensive and scales linearly with the number of writers on staff. 
 
-Capturing excited community members will benefit in following ways:
+Capturing excited community members will be of benefit in the following ways:
 
 - Scale content production by # of engaged power users instead of internal team size.
 - Encourage beginner, intermediate and advanced knowledge share inspired by real-world usage rather than *The Kitchen Sink*.
@@ -29,7 +29,7 @@ A great post published on AirPair can expect **40,000 pageviews** in it's first 
 
 ## Sponsor Benefits
 
-We'd like to help companies leverage their power users to heighten mindshare of your tech.
+We'd like to help companies like you leverage your power users to heighten mindshare of your tech.
 
 With [$100k in cash prizes set aside for our writing competition](//airpair.com/100k-writing-competition), there will be lots of eyeballs to get exposed to.
 
@@ -55,7 +55,9 @@ You also have the opportunity to post your own "sponsor updates" about any new f
 
 ### Case Study
 
-[![Build with Firebase & Ionic ](https://imgur.com/aR62OFI.png) Building a Real Time Hybrid App with Ionic & Firebase](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase) received 5,500+ pageviews in it's first week, with visitors spending an average of 6.5 minutes engaged with the content. The post was exceptionally popular and shared across social media.
+[![Build with Firebase & Ionic ](https://imgur.com/aR62OFI.png) 
+
+Building a Real Time Hybrid App with Ionic & Firebase](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase) received 5,500+ pageviews in it's first week, with visitors spending an average of 6.5 minutes engaged with the content. The post was exceptionally popular and shared across social media.
 
 [![Build a Real Time Hybrid App with Ionic & Firebase](//imgur.com/ykBVXNv.png)](https://twitter.com/Firebase/status/561198155828453376)
 
@@ -104,7 +106,7 @@ We have a schedule and a set of activies that will stimulate participation from 
 
 ### Meeting your champions
 
-All content goes through a peer review process prior to being published. Your team can optional be invovled in the review process, meet those building greats things with your tech and help improve and shape every piece before it's published.
+All content goes through a peer review process prior to being published. Your team can opt to be involved in the review process, meet those building greats things with your tech and help improve and shape every piece before it's published.
 
 ## We're interested, what's next?
 
