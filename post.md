@@ -55,7 +55,7 @@ You also have the opportunity to post your own "sponsor updates" about any new f
 
 ### Case Study
 
-[![Build with Firebase & Ionic ](https://imgur.com/aR62OFI.png) 
+[![Build with Firebase & Ionic ](https://imgur.com/aR62OFI.png)](//airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase)
 
 [Building a Real Time Hybrid App with Ionic & Firebase](//airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase) received 5,500+ pageviews in it's first week, with visitors spending an average of 6.5 minutes engaged with the content. The post was exceptionally popular and shared across social media.
 
