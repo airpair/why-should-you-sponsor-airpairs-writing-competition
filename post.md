@@ -52,6 +52,9 @@ You also have the opportunity to post your own "sponsor updates" about any new f
 <img src="/static/img/pages/postscomp/logo-rethinkdb.png" style="width:200px;margin:3px" />
 <img src="/static/img/pages/postscomp/logo-coreos.png" style="width:200px;margin:3px" />
 <img src="/static/img/pages/postscomp/logo-keen-io.png" style="width:200px;margin:3px" />
+<img src="/static/img/pages/postscomp/logo-nginx.png" style="width:200px;margin:3px" />
+<img src="/static/img/pages/postscomp/logo-rocket.png" style="width:200px;margin:3px" />
+<img src="/static/img/pages/postscomp/logo-etcd.png" style="width:200px;margin:3px" />
 
 ### Case Study
 
