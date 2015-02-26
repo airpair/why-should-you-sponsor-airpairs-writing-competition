@@ -47,14 +47,17 @@ You also have the opportunity to post your own "sponsor updates" about any new f
 
 ### Other like minded companies participating
 
-<img src="/static/img/pages/postscomp/logo-firebase.png" style="width:200px;margin:3px" />
-<img src="/static/img/pages/postscomp/logo-pubnub.png" style="width:200px;margin:3px" />
-<img src="/static/img/pages/postscomp/logo-rethinkdb.png" style="width:200px;margin:3px" />
-<img src="/static/img/pages/postscomp/logo-coreos.png" style="width:200px;margin:3px" />
-<img src="/static/img/pages/postscomp/logo-keen-io.png" style="width:200px;margin:3px" />
-<img src="/static/img/pages/postscomp/logo-nginx.png" style="width:200px;margin:3px" />
-<img src="/static/img/pages/postscomp/logo-rocket.png" style="width:200px;margin:3px" />
-<img src="/static/img/pages/postscomp/logo-etcd.png" style="width:200px;margin:3px" />
+<img src="/static/img/pages/postscomp/logo-firebase.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-pubnub.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-rethinkdb.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-coreos.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-keen-io.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-nginx.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-rocket.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-etcd.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-twilio.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-composeio.png" style="width:160px;margin:8px" />
+<img src="/static/img/pages/postscomp/logo-neo4j.png" style="width:160px;margin:8px" />
 
 ### Case Study
 
