@@ -116,4 +116,4 @@ All content goes through a peer review process prior to being published. Your te
 
 ## We're interested, what's next?
 
-Please email [team@airpair.com](team@airpair.com) to set up a call. We will clarify any questions you have and send a sponsorship package with all the details. Excited to have you on board!
+Please email [Team at AirPair](mailto:team@airpair.com?Subject=Writing%20writing%20sponsor) to set up a call. We will clarify any questions you have and send a sponsorship package with all the details. Excited to have you on board!
