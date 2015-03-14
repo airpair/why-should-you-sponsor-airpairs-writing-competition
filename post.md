@@ -47,15 +47,13 @@ You also have the opportunity to post your own "sponsor updates" about any new f
 
 ### Other like minded companies participating
 
-<img src="https:/static/img/pages/postscomp/logo-firebase.png" style="width:160px;margin:18px" />
-<img src="https:/static/img/pages/postscomp/logo-pubnub.png" style="width:160px;margin:18px" />
-<img src="https:/static/img/pages/postscomp/logo-rethinkdb.png" style="width:160px;margin:18px" />
-<img src="https:/static/img/pages/postscomp/logo-coreos.png" style="width:160px;margin:18px" />
-<img src="https:/static/img/pages/postscomp/logo-keen-io.png" style="width:160px;margin:18px" />
-<img src="https:/static/img/pages/postscomp/logo-rocket.png" style="width:160px;margin:18px" />
-<img src="https:/static/img/pages/postscomp/logo-twilio.png" style="width:160px;margin:18px" />
-<img src="https:/static/img/pages/postscomp/logo-compose.png" style="width:160px;margin:18px" />
-<img src="https:/static/img/pages/postscomp/logo-neo4j.png" style="width:160px;margin:18px" />
+<img src="https://www.airpair.com/static/img/pages/postscomp/logo-firebase.png" style="width:160px;margin:18px" />
+<img src="https://www.airpair.com/static/img/pages/postscomp/logo-pubnub.png" style="width:160px;margin:18px" />
+<img src="https://www.airpair.com/static/img/pages/postscomp/logo-rethinkdb.png" style="width:160px;margin:18px" />
+<img src="https://www.airpair.com/static/img/pages/postscomp/logo-coreos.png" style="width:160px;margin:18px" />
+<img src="https://www.airpair.com/static/img/pages/postscomp/logo-keen-io.png" style="width:160px;margin:18px" />
+<img src="https://www.airpair.com/static/img/pages/postscomp/logo-twilio.png" style="width:160px;margin:18px" />
+<img src="https://www.airpair.com/static/img/pages/postscomp/logo-neo4j.png" style="width:160px;margin:18px" />
 
 ### Case Study
 
